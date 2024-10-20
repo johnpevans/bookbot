@@ -1,2 +1,2 @@
 # bookbot
-For demo on Python.
+BookBot is my first project!
